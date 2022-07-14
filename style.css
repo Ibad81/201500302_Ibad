@@ -1,0 +1,104 @@
+
+.navbar-expand-lg{
+    
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+}
+.navbar-brand{
+    font-family: "Montserrat";
+    font-size: 4rem;
+    font-weight: bold ;
+    padding-left: 20px;
+}
+
+
+.navbar{
+    padding-bottom: 4.5rem;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.nav-item{
+    padding-left: 10%;
+   padding: 0 10px;
+}
+.navbar-nav{
+    padding-left: 10%;
+    margin-left: 200px;
+}
+.nav-link{
+    font-size: 2rem;
+    font-family: "Montserrat";
+
+    
+    
+}
+.buy
+{
+    padding-left: 300px;
+    color: orangered;
+    width: max-content;
+    margin-left: 250px;
+}
+.nav-link:hover{
+    background-color: orangered;
+    color: black;
+}
+.sale-box{
+
+    color: rgb(91,85,85);
+    background-color: rgb(206,201,201);
+    width: 200px;
+    height: 23px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 210px;
+    margin-left: 200px;
+    position: relative;
+    
+}
+.Big{
+    font-size:50px;
+    width:400px;
+    margin-left: 200px;
+    
+    color: blue;
+    position:absolute;
+}
+.small{
+    font-size: 1.5rem;
+    width:max-content;
+    padding-left:  200px;
+    padding-top: 250px;
+    position: absolute;
+}
+#photo{
+    position:absolute;
+margin-left: 60%;
+margin-top: 0%;
+margin-right: auto;
+}
+.footer{
+    position: absolute;
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bolder;
+}
+#n{
+    padding-left: 100px;
+
+}
+#roll{
+    padding-left: 100px;
+}
+#uni{
+    padding-left: 100px;
+}
+#date{
+    padding-left: 100px;
+}
